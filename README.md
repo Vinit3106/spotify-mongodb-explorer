@@ -1,4 +1,4 @@
-#  Spotify MongoDB Explorer – Midterm Assignment
+#  Spotify MongoDB Explorer 
 
 
 
@@ -17,7 +17,7 @@ We used **MongoDB Atlas**, Python, and the **Spotify Web API** to fetch real-tim
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **MongoDB Atlas** (Cloud NoSQL Database)  
 - **Spotify Developer API**  
@@ -27,7 +27,7 @@ We used **MongoDB Atlas**, Python, and the **Spotify Web API** to fetch real-tim
 
 ---
 
-## 📦 Files Included
+##  Files Included
 
 | File                                               | Description                                                    |
 |----------------------------------------------------|----------------------------------------------------------------|
